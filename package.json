@@ -3,7 +3,9 @@
     "version": "0.0.1",
     "description": "A basic voice assistant",
     "main": "index.js",
-    "dependencies": {},
+    "dependencies": {
+        "say": "^0.16.0"
+    },
     "engines": {
         "node": "14.x"
     }
